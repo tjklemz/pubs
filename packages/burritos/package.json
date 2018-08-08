@@ -4,6 +4,6 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@flowjo-llc/fj-publisher": "^1.2.0"
+    "@flowjo-llc/fj-publisher": "^2.0.0"
   }
 }

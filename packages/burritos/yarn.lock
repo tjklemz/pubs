@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@flowjo-llc/fj-publisher@^1.2.0":
-  version "1.2.0"
-  resolved "http://art.hq.flowjo.com:8081/artifactory/api/npm/envoyls-packages/@flowjo-llc/fj-publisher/-/@flowjo-llc/fj-publisher-1.2.0.tgz#5623aaeb6fd9c766899b13cce29220b26580d9b1"
+"@flowjo-llc/fj-publisher@^2.0.0":
+  version "2.0.0"
+  resolved "http://art.hq.flowjo.com:8081/artifactory/api/npm/envoyls-packages/@flowjo-llc/fj-publisher/-/@flowjo-llc/fj-publisher-2.0.0.tgz#3208676eb645f0a0fc455fe3f3eaeff7ecb1420b"
   dependencies:
     semver "^5.5.0"
 
