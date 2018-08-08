@@ -2,5 +2,8 @@
   "name": "tacos",
   "version": "1.0.2",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@flowjo-llc/fj-publisher": "^2.0.0"
+  }
 }
