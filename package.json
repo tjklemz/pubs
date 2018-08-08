@@ -1,7 +1,7 @@
 {
   "name": "pub1",
   "private": true,
-  "version": "1.0.0-20180808152856",
+  "version": "1.0.0-20180808152856-20180808153050",
   "license": "MIT",
   "devDependencies": {
     "lerna": "^2.11.0"
