@@ -1,0 +1,11 @@
+{
+  "name": "wrapper",
+  "version": "1.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "burritos": "^1.0.0",
+    "tacos": "^1.0.1",
+    "tortas": "^1.0.1"
+  }
+}
