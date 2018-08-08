@@ -7,6 +7,6 @@
     "lerna": "^2.11.0"
   },
   "dependencies": {
-    "@flowjo-llc/fj-publisher": "^2.1.0"
+    "@flowjo-llc/fj-publisher": "^2.2.0"
   }
 }
