@@ -1,6 +1,6 @@
 {
   "name": "burritos",
-  "version": "5.0.0-20180808152755",
+  "version": "5.0.0",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
