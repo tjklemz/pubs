@@ -2,5 +2,8 @@
   "name": "burritos",
   "version": "4.4.3",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@flowjo-llc/fj-publisher": "^1.2.0"
+  }
 }
