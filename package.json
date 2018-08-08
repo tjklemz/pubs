@@ -5,5 +5,8 @@
   "license": "MIT",
   "devDependencies": {
     "lerna": "^2.11.0"
+  },
+  "dependencies": {
+    "@flowjo-llc/fj-publisher": "^1.2.0"
   }
 }
